@@ -1,0 +1,23 @@
+﻿Q3. If you have to validate the above model in the field how would you design an experiment to do so. What factors or variables will you collect and how many samples would you need? What all resources would be required to carry out the experiment? 
+
+
+Ans-
+-1. If you have to validate the above model in the field how would you design an experiment to do so?
+Experiment Duration:- 2-6 months depending on the type of plants.
+Assumption:-
+A. I don’t know the effect of spray yet
+B. All equipments are already installed in the farms
+
+
+-2. What factors or variables will you collect and how many samples would you need?
+5 Samples:-
+A. Higher spray than recommended
+B. Recommended spray 
+C. Less than Recommended
+D. No spray. Close to spray plant
+E. No spray. Away from spray plant
+
+
+-What all resources would be required to carry out the experiment?
+A. Will require cameras linked to Computer Vision Model to record and monitor plant health with Regular Interval activation and Anomalies detection.
+B. There is also a need for Turing Test(Manual Validation) performed by an Expert at regular intervals or based on Alerts.
